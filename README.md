@@ -23,7 +23,8 @@ Compare and analyze the UX of 2–3 competing apps/websites. Develop and incorpo
 
 A heuristic evaluation was conducted on three competing e-commerce applications: Amazon, Flipkart, and Meesho. These platforms were selected due to their large user base and similar functionalities such as product browsing, purchasing, and delivery services. The evaluation was performed using Jakob Nielsen’s 10 Usability Heuristics, focusing on efficiency of use, visibility of system status, consistency, recognition vs recall, and user control.
 
-<img width="488" height="1079" alt="image" src="https://github.com/user-attachments/assets/0bd9094b-c94d-4471-9f92-60a7e8f7520f" />
+<img width="407" height="900" alt="image" src="https://github.com/user-attachments/assets/e6bc62e0-be51-4ad2-b475-ba02d3a800d7" />
+
 
 <img width="491" height="1073" alt="image" src="https://github.com/user-attachments/assets/7f167fef-34c8-4922-8d06-1c0ff3c6a8fc" />
 
